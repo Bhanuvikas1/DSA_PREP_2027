@@ -10,6 +10,7 @@ public class Duplicates {
         int[] nums = { 1, 2, 3, 4, 4, 5, 2, 1, 5 };
 
         // Method should return all the duplicate numbers.
+        // TC - O(n), SC - O(n).
         findDuplicates(nums);
 
     }
